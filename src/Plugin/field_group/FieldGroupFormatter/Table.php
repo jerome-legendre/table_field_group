@@ -16,7 +16,7 @@ const WRAPPERSLIST = ['container', 'fieldset', 'details'];
  *
  * @FieldGroupFormatter(
  *   id = "table",
- *   label = @Translation("Table"),
+ *   label = @Translation("Table Columns"),
  *   description = @Translation("This fieldgroup renders the inner content in a
  *   simple table."), supported_contexts = {
  *     "view",
